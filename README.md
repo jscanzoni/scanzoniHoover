@@ -68,6 +68,7 @@ Example (matching the input above):
 * Dirt patches are labled `Dirt`
 
 Example (matching the input above):
+
 ![Output Mapping Hoover's Path](hooverOutputMap.png)
 
 ## Program / Requirements
