@@ -83,6 +83,6 @@ Example (matching the input above):
 1. download and install [NodeJS](https://nodejs.org/en/download/) -- the LTS version should be fine
 1. install/update the `fs` and `canvas` libraries by entering `npm install fs` and `npm install canvas` into your termial window
 1. download or clone the latest source from this repository to a local directory that your account has read/write access to
-1. open a terminal window and run: `node runHoover.js`
+1. open a terminal, navigate to the program's location, and run: `node runHoover.js`
     * the program will output two lines to display where the hoover currently sits and how many dirt piles were cleaned
 1. you can also navigate to your directory to find the `hooverOutputMap.png` file
